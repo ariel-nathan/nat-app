@@ -1,7 +1,11 @@
 {
-  "name": "nat-app",
+  "name": "create-nat-app",
+  "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariel-nathan/create-nat-app"
+  },
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
