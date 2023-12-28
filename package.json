@@ -3,7 +3,7 @@
   "bin": "./bin/cli.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ariel-nathan/create-nat-app"
+    "url": "https://github.com/ariel-nathan/nat-app/tree/create-nat-app"
   },
   "version": "0.1.0",
   "scripts": {
